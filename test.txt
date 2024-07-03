@@ -1,1 +1,2 @@
-print("hello malaysia")
+print("hello world")
+print("my name is nura")
